@@ -3,7 +3,7 @@
  * 
  * The NextStepSchedule class is tailored to schedule the execution of the NextStepBatch class in Salesforce.
  * By implementing the Schedulable interface, it allows administrators or developers to define specific intervals at which the batch job should run, automating the process of updating the Next Step field for Account and Opportunity objects.
- * Helpful Link: https://help.salesforce.com/s/articleView?id=sf.emergency_response_admin_surveys_apex_job.htm&type=5
+ * Helpful Link: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm
  * 
  * Benefits of using Scheduled Apex:
  * 
